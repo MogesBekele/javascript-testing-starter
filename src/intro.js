@@ -12,3 +12,12 @@ export function fizzBuzz(n) {
   if (n % 5 === 0) return 'Buzz';
   return n.toString();
 }
+
+
+//what is unit testing 
+//types of tests
+//testing frameworks
+//setting up vitest
+// your first test
+//test-driven development
+// running tests effeciently
